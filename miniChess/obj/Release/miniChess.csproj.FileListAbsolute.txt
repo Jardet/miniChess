@@ -1,0 +1,10 @@
+D:\Jardet\Self Study\C#\miniChess\miniChess\bin\Release\miniChess.exe.config
+D:\Jardet\Self Study\C#\miniChess\miniChess\bin\Release\miniChess.exe
+D:\Jardet\Self Study\C#\miniChess\miniChess\bin\Release\miniChess.pdb
+D:\Jardet\Self Study\C#\miniChess\miniChess\obj\Release\miniChess.csprojAssemblyReference.cache
+D:\Jardet\Self Study\C#\miniChess\miniChess\obj\Release\miniChess.chessForm.resources
+D:\Jardet\Self Study\C#\miniChess\miniChess\obj\Release\miniChess.Properties.Resources.resources
+D:\Jardet\Self Study\C#\miniChess\miniChess\obj\Release\miniChess.csproj.GenerateResource.cache
+D:\Jardet\Self Study\C#\miniChess\miniChess\obj\Release\miniChess.csproj.CoreCompileInputs.cache
+D:\Jardet\Self Study\C#\miniChess\miniChess\obj\Release\miniChess.exe
+D:\Jardet\Self Study\C#\miniChess\miniChess\obj\Release\miniChess.pdb
